@@ -1,0 +1,10 @@
+{
+  "full_name": "Viktor Zhemchuzhnikov",
+  "email": "asai5909@gmail.com",
+  "project_name": "Python Clean Architecture Project",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_description": "This is a basic project template that follows clean architecture layers",
+  "version": "0.1.0",
+  "requires_python": ">=3.8",
+  "open_source_license": ["MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3", "Not open source"]
+}
